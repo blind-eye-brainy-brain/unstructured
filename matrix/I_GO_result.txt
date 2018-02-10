@@ -1,0 +1,9 @@
+CODE NAME	TOTAL	ECO	LAW	POL	PSY	SOC
+I-GO-Cited by Media	436	172	163	59	10	32
+I-GO-Contribute a Book Review	11	2	0	4	1	4
+I-GO-Contribute a Column	592	186	143	184	7	72
+I-GO-Join Discussion Channels	5	2	1	2	0	0
+I-GO-Media Interviews	591	185	77	215	21	93
+I-GO-Participate a Panel Discussion	343	111	45	161	2	24
+I-GO-Participate in the Debate as a Speaker	141	39	33	43	2	24
+I-GO-Unidentified	825	157	230	287	20	131
