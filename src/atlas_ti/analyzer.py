@@ -125,6 +125,6 @@ def code_error_check(data):
                 count[point] = code
             if sorted(count.keys()) != sorted(points):
                 if (len(count) != 1) or (list(count.values())[0] not in skips):
-                    print('%s\t%s\t%s' % (p_id, q_id, data[p_id][q_id].codes))
+                    print('%s\t%s\t%s\t%s' % (p_id, q_id, data[p_id][q_id].codes, data[p_id][q_id].text))
 
 
